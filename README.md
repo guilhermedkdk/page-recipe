@@ -7,7 +7,7 @@ Uma página sobre uma receita de cupcake fictício feito como forma de estudos d
 <a href="https://guilhermedkdk.github.io/rocket-recipe-page/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#-learning">📚 Aprendizados</a>
+<a href="#-aprendizados">📚 Aprendizados</a>
 </p>
 
 <p align="center">
