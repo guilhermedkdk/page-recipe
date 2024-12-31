@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 :root {
@@ -14,12 +15,13 @@ body {
 }
 
 #page {
-  box-sizing: border-box;
   width: 800px;
+
   padding: 24px;
-  background-color: #f0e8c2;
-  border-radius: 24px;
   margin: 48px auto;
+  border-radius: 24px;
+
+  background-color: #f0e8c2;
 }
 
 img {
@@ -39,8 +41,8 @@ section + section {
 }
 
 h1 {
-  line-height: 140%;
   font-size: 40px;
+  line-height: 140%;
 }
 
 h2 {
@@ -49,9 +51,10 @@ h2 {
 
 h1,
 h2 {
-  color: #291b1a;
   margin-bottom: 4px;
+
   line-height: 150%;
+  color: #291b1a;
 }
 
 ul {
